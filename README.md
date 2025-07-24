@@ -3,13 +3,19 @@
 ## 📝 **Submission Details**
 
 **Name:** Raunak Agarwal
-**Email:** agarwalraunak2000@gmail.com 
-**Date Submitted:** 24-07-2025 
+
+**Email:** agarwalraunak2000@gmail.com
+
+**Date Submitted:** 24-07-2025
+
+**Time Taken:** [Hours/Minutes]
+
 **Assignment:** URL Shortener Service
+
 
 ---
 
-## 🚀 **Implementation !**
+##  **Implementation Details**
 
 This URL shortener service has been fully implemented with all required features. Below are the implementation details:
 
